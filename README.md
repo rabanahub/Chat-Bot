@@ -19,5 +19,6 @@ Chatbot type is determined by its capabilities. Declarative chatbots are more ba
 perform one function. These chatbots use NLP, defined rules, and ML to generate automated responses when you ask a question. Declarative, or task-oriented chatbots, are most common in customer support and service–and are best when answering commonly asked questions like what the store hours are and what item you’re returning. This type of chatbot is common, but its capabilities are a little basic compared to predictive chatbots.
 
 
-****Predictive chatbots**
+**Predictive chatbots**
+
 are more sophisticated and personalized than declarative chatbots. Often considered conversational chatbots, or virtual agents, these AI- and data-driven chatbots are much more interactive and aware. They utilize NLP and more complicated ML, along with natural language understanding (NLU) to continue learning about the user through predictive analytics and intelligence. Over time, they can even predict recommendations and anticipate your needs.
